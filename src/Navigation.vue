@@ -84,7 +84,7 @@ export default {
   position: absolute;
   top: 50%;
   box-sizing: border-box;
-  color: #000;
+  color: white;
   text-decoration: none;
   appearance: none;
   border: none;
